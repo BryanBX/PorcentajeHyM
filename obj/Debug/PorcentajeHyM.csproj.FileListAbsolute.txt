@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\PorcentajeHyM\bin\Debug\PorcentajeHyM.exe.config
+E:\Google Drive\Proyects\PorcentajeHyM\bin\Debug\PorcentajeHyM.exe
+E:\Google Drive\Proyects\PorcentajeHyM\bin\Debug\PorcentajeHyM.pdb
+E:\Google Drive\Proyects\PorcentajeHyM\obj\Debug\PorcentajeHyM.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\PorcentajeHyM\obj\Debug\PorcentajeHyM.exe
+E:\Google Drive\Proyects\PorcentajeHyM\obj\Debug\PorcentajeHyM.pdb
+E:\Google Drive\Proyects\PorcentajeHyM\obj\Debug\PorcentajeHyM.csprojAssemblyReference.cache
